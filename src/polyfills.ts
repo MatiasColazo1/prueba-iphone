@@ -1,4 +1,4 @@
-import 'zone.js'; // Esto ya está en tu config
+import 'zone.js';
 
 import 'core-js/es/array';
 import 'core-js/es/object';
